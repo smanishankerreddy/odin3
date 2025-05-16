@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  display: grid;
+  width: 960px;
+  height: 960px;
+  margin: 20px auto;
+  border: 2px solid #333;
+}
+
+.grid-item {
+  border: 1px solid #ddd;
+  background-color: white;
+}
